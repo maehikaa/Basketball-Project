@@ -42,5 +42,15 @@ The notebook includes:
 - Boxplots for efficiency distribution
 - Scatter plots to compare multiple performance metrics
 
+![image](https://github.com/user-attachments/assets/0f06ddfd-f991-4473-87b7-497a5867db1f)
+
+![image](https://github.com/user-attachments/assets/e7d511a6-574a-4cbf-82f7-b20ffcc8470d)
+
+![image](https://github.com/user-attachments/assets/665b2862-2b8a-4d27-8912-6219b65750ee)
+
+
+
+
+
 
 
